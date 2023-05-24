@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @chenkaixin12121
+- Hi there 🤔
+- I’m @chenkaixin12121
 
 ![](https://raw.githubusercontent.com/chenkaixin12121/chenkaixin12121/main/assets/github-contribution-grid-snake.svg)              
