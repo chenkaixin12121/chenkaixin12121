@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - Hi there 🤔
 - I’m @chenkaixin12121
 
-![](https://raw.githubusercontent.com/chenkaixin12121/chenkaixin12121/main/assets/github-contribution-grid-snake.svg)              
+<!-- ![](https://raw.githubusercontent.com/chenkaixin12121/chenkaixin12121/main/assets/github-contribution-grid-snake.svg) -->
